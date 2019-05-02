@@ -1,0 +1,1131 @@
+{
+  "IntroSlide": {
+    "Subtitle": "This is a report on the Avg of amount when account is fixed to 'Prague' and status is fixed to 'Running Contract/OK'. We will start by answering the original query and we complement the result with contextualization and detailed analyses.",
+    "Title": "CineCube Report",
+    "Notes": "This is a report on the Avg of amount when account is fixed to 'Prague' and status is fixed to 'Running Contract/OK'. We will start by answering the original query and we complement the result with contextualization and detailed analyses."
+  },
+  "Slide6": {
+    "Subtitle": "",
+    "Table": [],
+    "Title": "Assessing the behavior of status",
+    "Notes": "In this graphic, we put the original request in context by comparing the value 'Running Contract/OK' for status at level 0 with its sibling values. We highlight the reference cells with bold, the highest value with red and the lowest value with blue color. We calculate the Avg of amount while fixing account at level 2 to be equal to ''Prague'', and status at level 1 to be equal to ''Running Contract/OK''.\n"
+  },
+  "Slide5": {
+    "Subtitle": "",
+    "Table": [
+      {
+        "Running Contract/OK": "272610.00",
+        " Summary for status": "1995"
+      },
+      {
+        "Running Contract/OK": "130347.00",
+        " Summary for status": "1996"
+      },
+      {
+        "Running Contract/OK": "195099.00",
+        " Summary for status": "1997"
+      },
+      {
+        "Running Contract/OK": "185109.59",
+        " Summary for status": "1998"
+      }
+    ],
+    "Title": "Assessing the behavior of status",
+    "Notes": "In this graphic, we put the original request in context by comparing the value 'Running Contract/OK' for status at level 0 with its sibling values. We highlight the reference cells with bold, the highest value with red and the lowest value with blue color. We calculate the Avg of amount while fixing account at level 2 to be equal to ''Prague'', and status at level 1 to be equal to ''Running Contract/OK''.\nCompared to its sibling we observe the following:\n"
+  },
+  "Slide8": {
+    "Subtitle": "",
+    "Table": [
+      {
+        "1994": "",
+        "": "02-1997",
+        "Hl.m. Praha": "415800.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "02-1998",
+        "Hl.m. Praha": "428784.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "03-1996",
+        "Hl.m. Praha": "247728.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "03-1997",
+        "Hl.m. Praha": "94488.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "03-1998",
+        "Hl.m. Praha": "175674.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "04-1997",
+        "Hl.m. Praha": "99936.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "04-1998",
+        "Hl.m. Praha": "176712.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "05-1997",
+        "Hl.m. Praha": "177916.00 (3)"
+      },
+      {
+        "1994": "",
+        "": "05-1998",
+        "Hl.m. Praha": "62404.00 (3)"
+      },
+      {
+        "1994": "",
+        "": "06-1994",
+        "Hl.m. Praha": "288360.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "06-1997",
+        "Hl.m. Praha": "88272.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "06-1998",
+        "Hl.m. Praha": "223656.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "07-1996",
+        "Hl.m. Praha": "20196.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "08-1996",
+        "Hl.m. Praha": "258444.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "08-1997",
+        "Hl.m. Praha": "390660.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "09-1996",
+        "Hl.m. Praha": "70146.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "09-1997",
+        "Hl.m. Praha": "271584.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "09-1998",
+        "Hl.m. Praha": "201964.00 (3)"
+      },
+      {
+        "1994": "",
+        "": "10-1995",
+        "Hl.m. Praha": "419880.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "10-1996",
+        "Hl.m. Praha": "73920.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "10-1997",
+        "Hl.m. Praha": "121380.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "11-1996",
+        "Hl.m. Praha": "228276.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "11-1997",
+        "Hl.m. Praha": "203940.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "11-1998",
+        "Hl.m. Praha": "187650.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "12-1995",
+        "Hl.m. Praha": "125340.00 (1)"
+      },
+      {
+        "1994": "1995",
+        "": "",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "",
+        "": "01-1998",
+        "Hl.m. Praha": "190584.00 (5)"
+      },
+      {
+        "1994": "",
+        "": "02-1997",
+        "Hl.m. Praha": "415800.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "02-1998",
+        "Hl.m. Praha": "428784.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "03-1996",
+        "Hl.m. Praha": "247728.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "03-1997",
+        "Hl.m. Praha": "94488.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "03-1998",
+        "Hl.m. Praha": "175674.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "04-1997",
+        "Hl.m. Praha": "99936.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "04-1998",
+        "Hl.m. Praha": "176712.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "05-1997",
+        "Hl.m. Praha": "177916.00 (3)"
+      },
+      {
+        "1994": "",
+        "": "05-1998",
+        "Hl.m. Praha": "62404.00 (3)"
+      },
+      {
+        "1994": "",
+        "": "06-1994",
+        "Hl.m. Praha": "288360.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "06-1997",
+        "Hl.m. Praha": "88272.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "06-1998",
+        "Hl.m. Praha": "223656.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "07-1996",
+        "Hl.m. Praha": "20196.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "08-1996",
+        "Hl.m. Praha": "258444.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "08-1997",
+        "Hl.m. Praha": "390660.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "09-1996",
+        "Hl.m. Praha": "70146.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "09-1997",
+        "Hl.m. Praha": "271584.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "09-1998",
+        "Hl.m. Praha": "201964.00 (3)"
+      },
+      {
+        "1994": "",
+        "": "10-1995",
+        "Hl.m. Praha": "419880.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "10-1996",
+        "Hl.m. Praha": "73920.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "10-1997",
+        "Hl.m. Praha": "121380.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "11-1996",
+        "Hl.m. Praha": "228276.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "11-1997",
+        "Hl.m. Praha": "203940.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "11-1998",
+        "Hl.m. Praha": "187650.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "12-1995",
+        "Hl.m. Praha": "125340.00 (1)"
+      },
+      {
+        "1994": "1996",
+        "": "",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "",
+        "": "01-1998",
+        "Hl.m. Praha": "190584.00 (5)"
+      },
+      {
+        "1994": "",
+        "": "02-1997",
+        "Hl.m. Praha": "415800.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "02-1998",
+        "Hl.m. Praha": "428784.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "03-1996",
+        "Hl.m. Praha": "247728.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "03-1997",
+        "Hl.m. Praha": "94488.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "03-1998",
+        "Hl.m. Praha": "175674.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "04-1997",
+        "Hl.m. Praha": "99936.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "04-1998",
+        "Hl.m. Praha": "176712.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "05-1997",
+        "Hl.m. Praha": "177916.00 (3)"
+      },
+      {
+        "1994": "",
+        "": "05-1998",
+        "Hl.m. Praha": "62404.00 (3)"
+      },
+      {
+        "1994": "",
+        "": "06-1994",
+        "Hl.m. Praha": "288360.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "06-1997",
+        "Hl.m. Praha": "88272.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "06-1998",
+        "Hl.m. Praha": "223656.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "07-1996",
+        "Hl.m. Praha": "20196.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "08-1996",
+        "Hl.m. Praha": "258444.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "08-1997",
+        "Hl.m. Praha": "390660.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "09-1996",
+        "Hl.m. Praha": "70146.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "09-1997",
+        "Hl.m. Praha": "271584.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "09-1998",
+        "Hl.m. Praha": "201964.00 (3)"
+      },
+      {
+        "1994": "",
+        "": "10-1995",
+        "Hl.m. Praha": "419880.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "10-1996",
+        "Hl.m. Praha": "73920.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "10-1997",
+        "Hl.m. Praha": "121380.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "11-1996",
+        "Hl.m. Praha": "228276.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "11-1997",
+        "Hl.m. Praha": "203940.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "11-1998",
+        "Hl.m. Praha": "187650.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "12-1995",
+        "Hl.m. Praha": "125340.00 (1)"
+      },
+      {
+        "1994": "1997",
+        "": "",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "",
+        "": "01-1998",
+        "Hl.m. Praha": "190584.00 (5)"
+      },
+      {
+        "1994": "",
+        "": "02-1997",
+        "Hl.m. Praha": "415800.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "02-1998",
+        "Hl.m. Praha": "428784.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "03-1996",
+        "Hl.m. Praha": "247728.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "03-1997",
+        "Hl.m. Praha": "94488.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "03-1998",
+        "Hl.m. Praha": "175674.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "04-1997",
+        "Hl.m. Praha": "99936.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "04-1998",
+        "Hl.m. Praha": "176712.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "05-1997",
+        "Hl.m. Praha": "177916.00 (3)"
+      },
+      {
+        "1994": "",
+        "": "05-1998",
+        "Hl.m. Praha": "62404.00 (3)"
+      },
+      {
+        "1994": "",
+        "": "06-1994",
+        "Hl.m. Praha": "288360.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "06-1997",
+        "Hl.m. Praha": "88272.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "06-1998",
+        "Hl.m. Praha": "223656.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "07-1996",
+        "Hl.m. Praha": "20196.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "08-1996",
+        "Hl.m. Praha": "258444.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "08-1997",
+        "Hl.m. Praha": "390660.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "09-1996",
+        "Hl.m. Praha": "70146.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "09-1997",
+        "Hl.m. Praha": "271584.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "09-1998",
+        "Hl.m. Praha": "201964.00 (3)"
+      },
+      {
+        "1994": "",
+        "": "10-1995",
+        "Hl.m. Praha": "419880.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "10-1996",
+        "Hl.m. Praha": "73920.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "10-1997",
+        "Hl.m. Praha": "121380.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "11-1996",
+        "Hl.m. Praha": "228276.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "11-1997",
+        "Hl.m. Praha": "203940.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "11-1998",
+        "Hl.m. Praha": "187650.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "12-1995",
+        "Hl.m. Praha": "125340.00 (1)"
+      },
+      {
+        "1994": "1998",
+        "": "",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "",
+        "": "01-1998",
+        "Hl.m. Praha": "190584.00 (5)"
+      },
+      {
+        "1994": "",
+        "": "02-1997",
+        "Hl.m. Praha": "415800.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "02-1998",
+        "Hl.m. Praha": "428784.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "03-1996",
+        "Hl.m. Praha": "247728.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "03-1997",
+        "Hl.m. Praha": "94488.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "03-1998",
+        "Hl.m. Praha": "175674.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "04-1997",
+        "Hl.m. Praha": "99936.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "04-1998",
+        "Hl.m. Praha": "176712.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "05-1997",
+        "Hl.m. Praha": "177916.00 (3)"
+      },
+      {
+        "1994": "",
+        "": "05-1998",
+        "Hl.m. Praha": "62404.00 (3)"
+      },
+      {
+        "1994": "",
+        "": "06-1994",
+        "Hl.m. Praha": "288360.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "06-1997",
+        "Hl.m. Praha": "88272.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "06-1998",
+        "Hl.m. Praha": "223656.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "07-1996",
+        "Hl.m. Praha": "20196.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "08-1996",
+        "Hl.m. Praha": "258444.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "08-1997",
+        "Hl.m. Praha": "390660.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "09-1996",
+        "Hl.m. Praha": "70146.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "09-1997",
+        "Hl.m. Praha": "271584.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "09-1998",
+        "Hl.m. Praha": "201964.00 (3)"
+      },
+      {
+        "1994": "",
+        "": "10-1995",
+        "Hl.m. Praha": "419880.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "10-1996",
+        "Hl.m. Praha": "73920.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "10-1997",
+        "Hl.m. Praha": "121380.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "11-1996",
+        "Hl.m. Praha": "228276.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "11-1997",
+        "Hl.m. Praha": "203940.00 (1)"
+      },
+      {
+        "1994": "",
+        "": "11-1998",
+        "Hl.m. Praha": "187650.00 (2)"
+      },
+      {
+        "1994": "",
+        "": "12-1995",
+        "Hl.m. Praha": "125340.00 (1)"
+      }
+    ],
+    "Title": "Drilling down the Rows of the Original Result",
+    "Notes": "In this slide, we expand dimension date by drilling down from level 3 to level 2. For each cell we show both the Avg of amount and the number of tuples that correspond to it in parentheses. We highlight the 160 lowest values in blue and the 160 largest in red color.\n"
+  },
+  "Slide7": {
+    "Subtitle": "In this series of slides we will present a detailed analysis of the values involved in the result of the original query. To this end, we drill-down the hierarchy of grouping levels of the result to one level of aggregation lower, whenever this is possible.",
+    "Title": "Act II: Explaining results",
+    "Notes": "Act II: Explaining results\nIn this series of slides we will present a detailed analysis of the values involved in the result of the original query. To this end, we drill-down the hierarchy of grouping levels of the result to one level of aggregation lower, whenever this is possible."
+  },
+  "Slide4": {
+    "Subtitle": "In this series of slides we put the original result in context, by comparing the behavior of its defining values with the behavior of values that are similar to them.",
+    "Title": "Act I: Putting results in context",
+    "Notes": "Act I: Putting results in context\nIn this series of slides we put the original result in context, by comparing the behavior of its defining values with the behavior of values that are similar to them."
+  },
+  "SummarySlide": {
+    "Subtitle": "",
+    "Title": "Summary",
+    "Notes": "In this slide we summarize our findings.\n\nFirst, we tried to put the original result in context, by comparing its defining values with similar ones.\nWhen we compared Running Contract/OK to its siblings, grouped by status and date, we observed the following:\n\n\nThen we analyzed the results by drilling down one level in the hierarchy.\nWhen we drilled down account, we observed the following facts:\n\nColumn 1998 has 5 of the 10 highest values.\nColumn 1998 has 5 of the 10 lowest values.\n"
+  },
+  "Slide3": {
+    "Subtitle": "",
+    "Table": [
+      {
+        "": "1995",
+        "Hl.m. Praha": "272610.00"
+      },
+      {
+        "": "1996",
+        "Hl.m. Praha": "130347.00"
+      },
+      {
+        "": "1997",
+        "Hl.m. Praha": "195099.00"
+      },
+      {
+        "": "1998",
+        "Hl.m. Praha": "185109.59"
+      }
+    ],
+    "Title": "Answer to the original question",
+    "Notes": "Here, you can see the answer of the original query. You have specified account to be equal to 'Prague', and status to be equal to 'Running Contract/OK'. We report on Avg of amount grouped by account at level 1, and date at level 3 .\nYou can observe the results in this table. We highlight the largest value with red and the lowest value with blue color. \n"
+  },
+  "Slide9": {
+    "Subtitle": "",
+    "Table": [
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "194280.00 (1)",
+        "": "10404",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "45720.00 (1)",
+        "": "10652",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "197808.00 (1)",
+        "1998": "-",
+        "": "10679",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "68832.00 (1)",
+        "1997": "-",
+        "1998": "-",
+        "": "10762",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "419880.00 (1)",
+        "1996": "-",
+        "1997": "-",
+        "1998": "-",
+        "": "11349",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "37944.00 (1)",
+        "": "1869",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "209040.00 (1)",
+        "": "1876",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "44952.00 (1)",
+        "1998": "-",
+        "": "1906",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "71460.00 (1)",
+        "1997": "-",
+        "1998": "-",
+        "": "2143",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "415800.00 (1)",
+        "1998": "-",
+        "": "2246",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "20196.00 (1)",
+        "1997": "-",
+        "1998": "-",
+        "": "2268",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "428784.00 (1)",
+        "": "2545",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "136344.00 (1)",
+        "": "2622",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "268320.00 (1)",
+        "1998": "-",
+        "": "2872",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "77184.00 (1)",
+        "1997": "-",
+        "1998": "-",
+        "": "3230",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "276084.00 (1)",
+        "": "3293",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "271584.00 (1)",
+        "1998": "-",
+        "": "3664",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "74916.00 (1)",
+        "": "3862",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "63576.00 (1)",
+        "": "3953",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "212976.00 (1)",
+        "": "4144",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "66696.00 (1)",
+        "": "4616",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "258444.00 (1)",
+        "1997": "-",
+        "1998": "-",
+        "": "4994",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "165168.00 (1)",
+        "1998": "-",
+        "": "4999",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "99216.00 (1)",
+        "": "5698",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "5148.00 (1)",
+        "": "6061",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "390660.00 (1)",
+        "1998": "-",
+        "": "6592",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "100260.00 (1)",
+        "1998": "-",
+        "": "6649",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "234336.00 (1)",
+        "": "7099",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "203940.00 (1)",
+        "1998": "-",
+        "": "7176",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "94488.00 (1)",
+        "1998": "-",
+        "": "7674",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "247728.00 (1)",
+        "1997": "-",
+        "1998": "-",
+        "": "8327",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "288360.00 (1)",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "-",
+        "": "8558",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "88272.00 (1)",
+        "1998": "-",
+        "": "8772",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "74352.00 (1)",
+        "": "8784",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "125340.00 (1)",
+        "1996": "-",
+        "1997": "-",
+        "1998": "-",
+        "": "8899",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "566640.00 (1)",
+        "": "8926",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "70656.00 (1)",
+        "1997": "-",
+        "1998": "-",
+        "": "9024",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "321936.00 (1)",
+        "": "9037",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "99936.00 (1)",
+        "1998": "-",
+        "": "9377",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "228276.00 (1)",
+        "1997": "-",
+        "1998": "-",
+        "": "9510",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "157068.00 (1)",
+        "": "9560",
+        "Hl.m. Praha": ""
+      },
+      {
+        "1994": "-",
+        "1995": "-",
+        "1996": "-",
+        "1997": "-",
+        "1998": "279072.00 (1)",
+        "": "9646",
+        "Hl.m. Praha": ""
+      }
+    ],
+    "Title": "Drilling down the Columns of the Original Result",
+    "Notes": "In this slide, we expand dimension account by drilling down from level 1 to level 0. For each cell we show both the Avg of amount and the number of tuples that correspond to it in parentheses. We highlight the 10 lowest values in blue and the 10 largest in red color.\nSome interesting findings include:\nColumn 1998 has 5 of the 10 highest values.\nColumn 1998 has 5 of the 10 lowest values.\n"
+  }
+}
