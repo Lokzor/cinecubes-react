@@ -159,7 +159,7 @@ export default class SearchDatabase extends Component{
     }
 
     requestData(){
-        axios.get('http://localhost:8080/goodbyeson', {
+        axios.get('http://localhost:8080/jsonrequest', {
             params: {
                 ID: this.state.query
             }
