@@ -6,20 +6,20 @@ import './App.css';
 
 export default class Slides extends Component{
     constructor(props){
-        super(props)
+        super(props);
         this.state = {
             data: require('./Inputfiles/loan3A')
-        }
+        };
 
-        this.createTabs = this.createTabs.bind(this)
-        this.generateTabBody = this.generateTabBody.bind(this)
+        this.createTabs = this.createTabs.bind(this);
+        this.generateTabBody = this.generateTabBody.bind(this);
         this.generateTable = this.generateTable.bind(this)
 
     }
 
     generateTable(table){
 
-        let columns = []
+        let columns = [];
 
         for(let i=0; i<table.length; i++){
             columns.push(Object.keys((table)[i]))
@@ -50,8 +50,8 @@ export default class Slides extends Component{
     }
 
     createTabs(){
-        let arr = []
-        let data = this.state.data
+        let arr = [];
+        let data = this.state.data;
 
         Object.keys(data).sort().map((key) => {
             arr.push(data[key]);
